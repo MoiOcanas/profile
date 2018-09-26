@@ -47,8 +47,8 @@ header .card {
   display: inline-block; }
   @media (max-width: 42em) {
     header .card {
-      width: 110px;
-      height: 110px; } }
+      width: 100px;
+      height: 100px; } }
 
 main {
   animation-name: fadeIn;
